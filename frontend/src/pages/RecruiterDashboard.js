@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Button, Card, Form, Container, Row, Col, Modal, Table } from "react-bootstrap";
+import { Button, Card, Form, Container, Row, Col, Modal } from "react-bootstrap";
 import { FaPlusCircle, FaTrash } from "react-icons/fa";
 
 // Sample data for posted jobs

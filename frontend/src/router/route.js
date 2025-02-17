@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Home from "../pages/Home";
-import JobSeekerDashboard from "../components/JobSeekerDashboard";
-import RecruiterDashboard from "../components/RecruiterDashboard";
+import JobSeekerDashboard from "../pages/JobSeekerDashboard";
+import RecruiterDashboard from "../pages/RecruiterDashboard";
 
 function Approuter() {
   return (
